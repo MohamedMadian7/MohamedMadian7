@@ -20,7 +20,13 @@
 
 ###
 
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
+
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+       alt="data gif" 
+       width="35%" 
+       style="min-width:150px; max-width:250px; height:auto;">
+</p>
 
 ###
 
@@ -90,3 +96,4 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
 </div>
 
 ![Snake Animation](https://github.com/MohamedMadian7/MohamedMadian7/blob/output/snake-dark.svg)
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
