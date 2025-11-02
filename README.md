@@ -65,15 +65,14 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="40" alt="Microsoft Excel logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/15465/15465638.png" height="40" alt="tool logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" height="40" alt="Notion logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/diagramsdotnet.svg" height="40" alt="Draw.io (diagrams.net) logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img src="https://cdn-icons-png.flaticon.com/512/15465/15465638.png" height="40" alt="tool logo" />
-<img width="12" />
+
 
 </div>
 
