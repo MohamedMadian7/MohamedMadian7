@@ -30,7 +30,7 @@ I’m a Data Analyst passionate about turning raw data into actionable insights.
 Skilled in data cleaning, visualization, and statistical analysis, I transform complex datasets into clear and impactful stories that support data-driven decisions.
 Focused on EDA, dashboard creation, and data modeling to uncover valuable business insights and drive smarter solutions. 
   
-- 🔭 **Currently working on:** Founder & Owner of [NEXA](https://www.facebook.com/share/1BNVftURix/)   
+  - 🔭 **Currently working on:** Founder & Owner of [NEXA](https://www.facebook.com/share/1BNVftURix/)   
   - 🌱 **Currently learning:** Data Analytics 
   - 💼 **Open to:** Data Analysis, Data Engineering  
   - 📫 **Reach me at:** mohamedmadian2004@gmail.com
