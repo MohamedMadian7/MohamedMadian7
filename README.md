@@ -98,13 +98,28 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 
 
 
+<div align="left">
+
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" height="30" alt="C logo" />
+  <img width="8" />
+  
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="30" alt="HTML5 logo" />
+  <img width="8" />
+  
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" height="30" alt="R logo" />
+  <img width="8" />
+  
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" height="30" alt="PHP logo" />
+  <img width="8" />
+  
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" height="30" alt="Python logo" />
+
+</div>
 
 
 
