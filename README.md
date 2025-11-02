@@ -101,24 +101,25 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
 
 <div align="left">
 
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" height="30" alt="Notion logo" />
-  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" height="40" alt="Notion logo" />
+  <img width="12" />
 
-  <img src="https://img.shields.io/badge/Draw.io-%23F08705.svg?style=flat-square&logo=diagrams.net&logoColor=white" height="30" alt="Draw.io logo" />
-  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/diagramsdotnet.svg" height="40" alt="Draw.io (diagrams.net) logo" />
+  <img width="12" />
 
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white" height="30" alt="Adobe Lightroom logo" />
-  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobelightroom.svg" height="40" alt="Adobe Lightroom logo" />
+  <img width="12" />
 
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white" height="30" alt="Adobe Illustrator logo" />
-  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeillustrator.svg" height="40" alt="Adobe Illustrator logo" />
+  <img width="12" />
 
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" height="30" alt="Adobe Photoshop logo" />
-  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobephotoshop.svg" height="40" alt="Adobe Photoshop logo" />
+  <img width="12" />
 
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="30" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
 
 </div>
+
 
 
 
