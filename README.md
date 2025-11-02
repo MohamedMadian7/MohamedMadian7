@@ -65,7 +65,9 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" height="40" alt="Notion logo" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="40" alt="Microsoft Excel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" height="40" alt="Notion logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/diagramsdotnet.svg" height="40" alt="Draw.io (diagrams.net) logo" />
   <img width="12" />
@@ -95,3 +97,8 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
 
 ![Snake Animation](https://github.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/blob/output/snake-dark.svg)
 
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="40" alt="Microsoft Excel logo" />
+
+</div>
