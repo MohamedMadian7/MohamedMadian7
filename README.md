@@ -91,8 +91,4 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
 
 ![Snake Animation](https://github.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/blob/output/snake-dark.svg)
 
-<div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="40" alt="Microsoft Excel logo" />
-
-</div>
