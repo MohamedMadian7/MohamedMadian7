@@ -65,6 +65,17 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" height="40" alt="Notion logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/diagramsdotnet.svg" height="40" alt="Draw.io (diagrams.net) logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobelightroom.svg" height="40" alt="Adobe Lightroom logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeillustrator.svg" height="40" alt="Adobe Illustrator logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobephotoshop.svg" height="40" alt="Adobe Photoshop logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
 
 </div>
 
@@ -103,19 +114,14 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
 
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" height="40" alt="Notion logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/diagramsdotnet.svg" height="40" alt="Draw.io (diagrams.net) logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobelightroom.svg" height="40" alt="Adobe Lightroom logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeillustrator.svg" height="40" alt="Adobe Illustrator logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobephotoshop.svg" height="40" alt="Adobe Photoshop logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
 
 </div>
