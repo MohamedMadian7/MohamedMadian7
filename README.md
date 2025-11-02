@@ -89,6 +89,4 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
 
 </div>
 
-![Snake Animation](https://github.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/blob/output/snake-dark.svg)
-
 ![Snake Animation](https://github.com/MohamedMadian7/MohamedMadian7/blob/output/snake-dark.svg)
