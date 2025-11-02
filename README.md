@@ -72,6 +72,10 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/diagramsdotnet.svg" height="40" alt="Draw.io (diagrams.net) logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40" alt="GitHub logo" />
+<img width="12" />
+<img src="https://cdn-icons-png.flaticon.com/512/14063/14063266.png" height="40" alt="Social logo" />
+<img width="12" />
 
 </div>
 
