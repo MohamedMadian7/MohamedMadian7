@@ -40,7 +40,7 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Coding
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -51,15 +51,20 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
   
 </div>
 
-### Tools & Technologies
+### Visualization
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    <img src="https://cdn-icons-png.flaticon.com/512/15465/15465638.png" height="40" alt="tool logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/15465/15465638.png" height="40" alt="tool logo" />
+
+  </div>
+  
+### Tools & Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40" alt="GitHub logo" />
   <img width="12" />
