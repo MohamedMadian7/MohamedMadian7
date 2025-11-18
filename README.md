@@ -2,7 +2,6 @@
 <h3 align="center">Data Analyst | Excel | SQL | Python | R | Power Bi | Tableau </h3>
 
 <div align="center">
-
 [![Profile Views](https://komarev.com/ghpvc/?username=MohamedMadian7&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MohamedMadian7)
 [![GitHub Followers](https://img.shields.io/github/followers/MohamedMadian7?style=social)](https://github.com/MohamedMadian7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedmadian2004)
