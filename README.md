@@ -74,6 +74,7 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/diagramsdotnet.svg" height="40" alt="Draw.io (diagrams.net) logo" />
   <img width="12" />
+  <img width="96" height="96" src="https://img.icons8.com/pulsar-gradient/96/notion.png" alt="notion"/>
 
 </div>
  
