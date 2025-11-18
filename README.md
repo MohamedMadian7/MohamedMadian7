@@ -13,6 +13,10 @@
 [![LinkedIn](https://komarev.com/ghpvc/?username=MohamedMadian7&label=LinkedIn&color=0A66C2&style=flat)](https://github.com/MohamedMadian7)
 [![Email](https://komarev.com/ghpvc/?username=MohamedMadian7&label=Email&color=red&style=flat)](https://github.com/MohamedMadian7)
 
+[![Profile Views](https://komarev.com/ghpvc/?username=MohamedMadian7&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MohamedMadian7)
+[![GitHub Followers](https://komarev.com/ghpvc/?username=MohamedMadian7&label=Followers&color=blue&style=flat)](https://github.com/MohamedMadian7)
+[![LinkedIn](https://komarev.com/ghpvc/?username=MohamedMadian7&label=LinkedIn&color=0A66C2&style=flat)](https://www.linkedin.com/in/mohamedmadian2004)
+[![Email](https://komarev.com/ghpvc/?username=MohamedMadian7&label=Email&color=red&style=flat)](mailto:mohamedmadian2004@gmail.com)
 
 </div>
 
