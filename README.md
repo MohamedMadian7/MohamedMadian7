@@ -4,10 +4,9 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MohamedMadian7&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MohamedMadian7)
-[![GitHub Followers](https://img.shields.io/github/followers/MohamedMadian7?style=for-the-badge&logo=github)](https://github.com/MohamedMadian7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedmadian2004)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:mohamedmadian2004@gmail.com)
-
+[![GitHub Followers](https://img.shields.io/github/followers/MohamedMadian7?style=social)](https://github.com/MohamedMadian7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedmadian2004)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:mohamedmadian2004@gmail.com)
 </div>
 
 ---
