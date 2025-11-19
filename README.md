@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="180" src="..github/workflows/laptop-with-code.1920x1080.gif" alt="data gif"/>
+<img align="right" height="180" src=".github/workflows/laptop-with-code.1920x1080.gif" alt="data gif"/>
 
 ###
 
