@@ -20,7 +20,11 @@
 
 </div>
 
+###
 
+<img align="right" height="180" src=".github/workflows/coding.gif" alt="data gif"/>
+
+###
 
 <div align="left">
   
@@ -33,12 +37,6 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
   - 💼 **Open to:** Data Analysis, Data Engineering  
   - 📫 **Reach me at:** mohamedmadian2004@gmail.com
 </div>
-
-###
-
-<img align="right" height="180" src=".github/workflows/coding.gif" alt="data gif"/>
-
-###
 
 ---
 
