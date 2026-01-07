@@ -85,6 +85,11 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
 <img src="https://nirzak-streak-stats.vercel.app/?user=MohamedMadian7&theme=neon&hide_border=false" height="150" alt="streak graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMadian7&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMadian7&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MohamedMadian7&theme=algolia&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMadian7&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
+</div>
 
 
 
