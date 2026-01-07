@@ -86,4 +86,11 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMadian7&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMadian7&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="400" height="180" alt="stats graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MohamedMadian7&theme=radical&hide_border=false" width="400" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMadian7&show_icons=true&theme=radical&hide_border=false&layout=compact" width="400" height="180" alt="languages graph" />
+</div>
+
+
 ![Snake Animation](https://github.com/MohamedMadian7/MohamedMadian7/blob/output/snake-dark.svg)
