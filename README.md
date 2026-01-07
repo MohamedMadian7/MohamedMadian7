@@ -86,3 +86,14 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
 </div>
 
 ![Snake Animation](https://github.com/MohamedMadian7/MohamedMadian7/blob/output/snake-dark.svg)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmadian7&show_icons=true&locale=en&layout=compact" alt="mohamedmadian7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedmadian7&show_icons=true&locale=en" alt="mohamedmadian7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmadian7&" alt="mohamedmadian7" /></p>
