@@ -8,11 +8,14 @@
 
 <br>
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=2ED412&pause=2000"
-    alt="MohamedMadian7 Typing Animation"
-  />
+  <a href="https://github.com/MohamedMadian7?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=2ED412&pause=2000"
+      alt="MohamedMadian7 Typing Animation"
+    />
+  </a>
 </p>
+
 
 
 <h3 align="center">  Excel | SQL | Python | R | Power Bi | Tableau </h3>
