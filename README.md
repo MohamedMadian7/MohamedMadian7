@@ -1,7 +1,11 @@
 <h1 align="center">Hello, I'm Mohamed Madian</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Data Analyst" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Data+Analyst"
+    alt="Data Analyst Typing Animation"
+  />
 </p>
+
 <br>
 <h3 align="center">  Excel | SQL | Python | R | Power Bi | Tableau </h3>
 <div align="center">
