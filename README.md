@@ -1,6 +1,9 @@
 <h1 align="center">Hello, I'm Mohamed Madian</h1>
-<h3 align="center">Data Analyst | Excel | SQL | Python | R | Power Bi | Tableau </h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Data Analyst" alt="Typing SVG" />
+</p>
+<br>
+<h3 align="center">  Excel | SQL | Python | R | Power Bi | Tableau </h3>
 <div align="center">
   
 [![Profile Views](https://komarev.com/ghpvc/?username=MohamedMadian7&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MohamedMadian7)
