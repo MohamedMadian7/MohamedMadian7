@@ -6,13 +6,14 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://www.google.com.eg/search?q=Mohamed+Madian">
+  <a href="https://www.google.com.eg/search?q=Mohamed+Madian"> <!-- Google Me -->
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=007495&center=true&vCenter=true&lines=Mohamed+Madian;Data+Analyst;Excel+%7C+SQL+%7C+Power+BI"
+      src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=007495&pause=2000"
       alt="Mohamed Madian Google Search"
     />
   </a>
 </p>
+
 
 <h3 align="center">  Excel | SQL | Python | R | Power Bi | Tableau </h3>
 <div align="center">
