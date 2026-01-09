@@ -4,8 +4,16 @@
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007495&center=true&vCenter=true&width=600&lines=Data+Analyst"
     alt="Data Analyst Typing Animation"/>
 </p>
-
 <br>
+<p align="center">
+  <a href="https://www.google.com.eg/search?q=Mohamed+Madian">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=007495&center=true&vCenter=true&lines=Mohamed+Madian;Data+Analyst;Excel+%7C+SQL+%7C+Power+BI"
+      alt="Mohamed Madian Google Search"
+    />
+  </a>
+</p>
+
 <h3 align="center">  Excel | SQL | Python | R | Power Bi | Tableau </h3>
 <div align="center">
   
