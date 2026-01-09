@@ -1,9 +1,8 @@
 <h1 align="center">Hello, I'm Mohamed Madian</h1>
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Data+Analyst"
-    alt="Data Analyst Typing Animation"
-  />
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007495&center=true&vCenter=true&width=600&lines=Data+Analyst"
+    alt="Data Analyst Typing Animation"/>
 </p>
 
 <br>
