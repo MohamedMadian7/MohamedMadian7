@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Mohamed Madian</h1>
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=22&pause=1000&color=0E9BD4&width=435&center=true&vCenter=true&lines=Data+Analyst"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0E9BD4&width=435&center=true&vCenter=true&lines=Data+Analyst"
     alt="Data Analyst Typing Animation"
   />
 </p>
