@@ -6,13 +6,15 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://www.google.com.eg/search?q=Mohamed+Madian"> <!-- Google Me -->
+  <a href="https://www.google.com.eg/search?q=MohamedMadian7+GitHub">
+    <!-- Google Me -->
     <img
       src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=007495&pause=2000"
-      alt="Mohamed Madian Google Search"
+      alt="MohamedMadian7 GitHub Profile"
     />
   </a>
 </p>
+
 
 
 <h3 align="center">  Excel | SQL | Python | R | Power Bi | Tableau </h3>
