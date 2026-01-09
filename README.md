@@ -96,6 +96,7 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMadian7&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedMadian7/MohamedMadian7/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedMadian7/MohamedMadian7/output/pacman-contribution-graph.svg">
