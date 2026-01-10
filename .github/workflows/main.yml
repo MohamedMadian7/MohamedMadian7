@@ -2,7 +2,7 @@ name: generate pacman game
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # غيّرتها لـ 12 ساعة بدل 24
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
   push:
     branches:
@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10  # زودت الوقت لـ 10 دقائق
+    timeout-minutes: 5  
 
     steps:
       - name: Checkout repository
