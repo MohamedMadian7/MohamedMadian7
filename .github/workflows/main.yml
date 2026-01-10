@@ -2,7 +2,7 @@ name: generate pacman game
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 0 * * *"  # يعمل كل يوم الساعة 12 صباحاً UTC
   workflow_dispatch:
   push:
     branches:
@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5  
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -29,6 +29,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          keep_history: false  # أضفت هذا لتجنب مشاكل الـ history
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
