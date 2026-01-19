@@ -101,7 +101,3 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedMadian7/MohamedMadian7/output/pacman-contribution-graph.svg">
      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohamedMadian7/MohamedMadian7/output/pacman-contribution-graph.svg">
    </picture>
-
-   ![Pacman Animation](https://raw.githubusercontent)
-
-
