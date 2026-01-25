@@ -59,7 +59,15 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R logo" />
   <img width="12" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scipy.svg" height="40" alt="SciPy logo" />
+  <img width="12" />
+
 </div>
 
 ### Visualization
