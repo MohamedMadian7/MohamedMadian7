@@ -16,7 +16,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=MohamedMadian7&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MohamedMadian7)
 [![GitHub Followers](https://img.shields.io/github/followers/MohamedMadian7?style=social)](https://github.com/MohamedMadian7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedmadian7)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:mohamedmadian2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:Mohammed.Madian@outlook.com)
 [![Static Badge](https://img.shields.io/badge/View-Portfolio-brightgreen)](https://mohamedmadian-portfolio.netlify.app)
 
 
@@ -44,7 +44,7 @@ Focused on EDA, dashboard creation, and data modeling to uncover valuable busine
    
   -  **Currently learning:** Data Analytics 
   -  **Open to:** Data Analysis, Data Engineering  
-  -  **Reach me at:** mohamedmadian2004@gmail.com
+  -  **Reach me at:** Mohammed.Madian@outlook.com
 </div>
 
 ---
